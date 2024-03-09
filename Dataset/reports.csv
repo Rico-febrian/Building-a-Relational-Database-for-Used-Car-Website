@@ -1,0 +1,51 @@
+report_id,user_id,advertisement_id,report_type,report_description,report_date,action_taken
+1,32,133,Other,Seller tidak ramah,2023-02-03,Investigation
+2,11,141,Fraud,Scam,2023-09-10,Warning
+3,19,182,Fraud,Saya curiga ini penipuan,2023-03-11,Hide Ads
+4,50,160,Inappropriate Content,Scam,2021-06-08,Investigation
+5,4,43,Inappropriate Content, ,2023-05-27,Remove Ads
+6,16,95,Inappropriate Content,Saya curiga ini penipuan,2023-06-01,Remove Ads
+7,49,171,Other,Scam,2022-02-15,Hide Ads
+8,34,50,Spam,Scam,2022-05-12,Remove Ads
+9,3,31,Inappropriate Content,Saya curiga ini penipuan,2020-11-13,Investigation
+10,7,4,Inappropriate Content,Scam,2021-08-07,Investigation
+11,6,101,Other,Seller tidak ramah,2021-01-01,Investigation
+12,33,185,Inappropriate Content, ,2021-04-10,Investigation
+13,35,170,Other,Scam,2021-07-25,Warning
+14,27,36,Fraud,Seller tidak ramah,2023-12-10,Remove Ads
+15,17,50,Fraud,Saya curiga ini penipuan,2024-06-21,Investigation
+16,17,169,Fraud,Seller tidak ramah,2021-11-14,Warning
+17,40,24,Spam,Scam,2021-11-06,Account Suspended
+18,34,96,Other,Scam,2022-06-30,Hide Ads
+19,43,10,Fraud,Scam,2022-12-03,Investigation
+20,22,123,Other,Seller tidak ramah,2020-01-31,Investigation
+21,1,187,Fraud,Seller tidak ramah,2024-08-10,Investigation
+22,6,74,Spam, ,2024-05-09,Investigation
+23,15,143,Fraud,Seller tidak ramah,2023-09-04,Warning
+24,48,123,Fraud,Seller tidak ramah,2022-07-24,Investigation
+25,28,154,Inappropriate Content,Scam,2022-01-24,Investigation
+26,23,188,Inappropriate Content,Scam,2021-06-21,Warning
+27,28,140,Other, ,2022-06-23,Remove Ads
+28,8,110,Fraud,Saya curiga ini penipuan,2022-01-25,Investigation
+29,13,133,Spam,Seller tidak ramah,2020-06-01,Warning
+30,19,99,Fraud,Saya curiga ini penipuan,2021-02-17,Warning
+31,22,23,Other,Scam,2024-08-01,Remove Ads
+32,38,46,Inappropriate Content,Scam,2022-04-16,Investigation
+33,38,98,Fraud,Saya curiga ini penipuan,2024-02-03,Warning
+34,40,105,Other,Seller tidak ramah,2024-09-29,Investigation
+35,11,118,Spam, ,2023-07-03,Warning
+36,5,108,Fraud,Scam,2024-02-11,Warning
+37,26,130,Other,Seller tidak ramah,2020-09-25,Investigation
+38,28,128,Other, ,2024-10-24,Remove Ads
+39,13,81,Other,Seller tidak ramah,2024-10-23,Investigation
+40,10,146,Inappropriate Content,Scam,2021-01-05,Hide Ads
+41,1,191,Inappropriate Content, ,2022-05-15,Warning
+42,18,115,Fraud,Saya curiga ini penipuan,2024-12-10,Hide Ads
+43,2,90,Other,Scam,2023-02-12,Investigation
+44,6,143,Inappropriate Content,Scam,2024-09-09,Warning
+45,11,188,Fraud,Saya curiga ini penipuan,2022-01-04,Investigation
+46,28,192,Other, ,2022-11-29,Investigation
+47,8,42,Fraud,Seller tidak ramah,2023-09-22,Warning
+48,14,183,Inappropriate Content,Seller tidak ramah,2021-06-05,Investigation
+49,25,84,Spam,Scam,2021-07-05,Remove Ads
+50,41,98,Fraud,Seller tidak ramah,2023-03-19,Hide Ads

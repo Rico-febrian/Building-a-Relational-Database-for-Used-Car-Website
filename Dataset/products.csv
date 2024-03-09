@@ -1,0 +1,101 @@
+product_id,brand,model,body_type,transmission,fuel_type,machine_capacity,production_year,price
+1,Isuzu,Isuzu MU-X,SUV,Automatic,Gasoline,>3000cc,2021,980000000
+2,Mazda,Mazda CX-5,SUV,Manual,Hybrid,>1500 - 2000 cc,2014,590000000
+3,Tesla,Tesla Model 3,Sedan,Manual,Diesel,>1000 - 1500 cc,2020,750000000
+4,Mazda,Mazda CX-3,SUV,Manual,Electric,>2000 - 3000 cc,2005,830000000
+5,Tesla,Tesla Model S,Sedan,Automatic,Hybrid,>2000 - 3000 cc,2020,850000000
+6,Ford,Ford Focus,Sedan,Automatic,Diesel,>3000cc,2012,830000000
+7,Tesla,Tesla Model X,SUV,Automatic,Gasoline,>1000 - 1500 cc,2014,330000000
+8,Hyundai,Hyundai Stargazer,MPV,Manual,Hybrid,>1500 - 2000 cc,2011,70000000
+9,Toyota,Toyota Corolla Altis,Sedan,Automatic,Electric,>2000 - 3000 cc,2010,550000000
+10,Mitsubishi,Mitsubishi Xpander,MPV,Automatic,Gasoline,>3000cc,2022,520000000
+11,Toyota,Toyota Corolla Altis,Sedan,Automatic Triptonic,Hybrid,>1000 - 1500 cc,2002,800000000
+12,Wuling,Wuling Cortez,MPV,Automatic Triptonic,Hybrid,<1000 cc,2005,720000000
+13,Chevrolet,Chevrolet Spark,Hatchback,Manual,Hybrid,>1000 - 1500 cc,2010,460000000
+14,Mitsubishi,Mitsubishi Mirage,Hatchback,Manual,Diesel,>3000cc,2008,840000000
+15,Ford,Ford Everest,SUV,Automatic Triptonic,Diesel,<1000 cc,2023,110000000
+16,Hyundai,Hyundai Creta,SUV,Manual,Hybrid,>3000cc,2009,690000000
+17,Mitsubishi,Mitsubishi Mirage,Hatchback,Manual,Gasoline,>2000 - 3000 cc,2001,190000000
+18,Nissan,Nissan March,Hatchback,Automatic,Diesel,>3000cc,2000,750000000
+19,Nissan,Nissan X-Trail,SUV,Manual,Diesel,>2000 - 3000 cc,2020,230000000
+20,BMW,BMW 520i,Sedan,Manual,Electric,>3000cc,2016,250000000
+21,Hyundai,Hyundai Stargazer,MPV,Manual,Electric,>2000 - 3000 cc,2016,220000000
+22,Nissan,Nissan March,Hatchback,Automatic,Diesel,>1000 - 1500 cc,2007,450000000
+23,Mazda,Mazda CX-3,SUV,Automatic Triptonic,Hybrid,>1500 - 2000 cc,2001,390000000
+24,Toyota,Toyota Corolla Altis,Sedan,Automatic Triptonic,Gasoline,>2000 - 3000 cc,2020,230000000
+25,Tesla,Tesla Model 3,Sedan,Automatic,Gasoline,>1500 - 2000 cc,2005,190000000
+26,Honda,Honda Civic,Sedan,Automatic,Electric,>1500 - 2000 cc,2013,590000000
+27,Ford,Ford Focus,Sedan,Automatic Triptonic,Diesel,>1500 - 2000 cc,2012,500000000
+28,Ford,Ford Everest,SUV,Automatic,Diesel,>1000 - 1500 cc,2008,800000000
+29,Mazda,Mazda CX-5,SUV,Automatic Triptonic,Hybrid,>1500 - 2000 cc,2008,430000000
+30,Chevrolet,Chevrolet Spark,Hatchback,Manual,Electric,<1000 cc,2003,960000000
+31,Honda,Honda CR-V,SUV,Automatic Triptonic,Hybrid,>3000cc,2015,300000000
+32,Chevrolet,Chevrolet Spark,Hatchback,Automatic,Diesel,>1500 - 2000 cc,2016,540000000
+33,Suzuki,Suzuki Ertiga,MPV,Automatic,Gasoline,>1500 - 2000 cc,2023,590000000
+34,Wuling,Wuling Almaz RS,SUV,Automatic,Gasoline,>2000 - 3000 cc,2021,80000000
+35,Mercedes-Benz,Mercedes-Benz E250,Sedan,Automatic Triptonic,Electric,>3000cc,2009,180000000
+36,BMW,BMW 520i,Sedan,Manual,Gasoline,>1000 - 1500 cc,2012,730000000
+37,Mazda,Mazda CX-3,SUV,Manual,Diesel,>1500 - 2000 cc,2006,570000000
+38,Honda,Honda CR-V,SUV,Automatic,Diesel,<1000 cc,2023,80000000
+39,Mazda,Mazda 2,Hatchback,Manual,Electric,>1000 - 1500 cc,2010,320000000
+40,Wuling,Wuling Confero S,MPV,Manual,Hybrid,>1000 - 1500 cc,2009,280000000
+41,Hyundai,Hyundai Santa Fe,SUV,Manual,Diesel,>1000 - 1500 cc,2011,70000000
+42,Honda,Honda Brio Satya,Hatchback,Automatic Triptonic,Gasoline,<1000 cc,2010,380000000
+43,Tesla,Tesla Model 3,Sedan,Automatic,Hybrid,>1000 - 1500 cc,2016,210000000
+44,Wuling,Wuling Almaz RS,SUV,Automatic Triptonic,Electric,>1500 - 2000 cc,2003,740000000
+45,Isuzu,Isuzu D-Max,Pickup,Manual,Electric,>1500 - 2000 cc,2004,860000000
+46,Mitsubishi,Mitsubishi Pajero Sport,SUV,Manual,Diesel,>1500 - 2000 cc,2001,480000000
+47,Daihatsu,Daihatsu Ayla,Hatchback,Automatic,Hybrid,>1500 - 2000 cc,2002,590000000
+48,Honda,Honda CR-V,SUV,Manual,Diesel,>2000 - 3000 cc,2018,70000000
+49,Ford,Ford Everest,SUV,Manual,Electric,>2000 - 3000 cc,2006,470000000
+50,Hyundai,Hyundai Creta,SUV,Automatic,Hybrid,>1500 - 2000 cc,2000,100000000
+51,Toyota,Toyota Corolla Altis,Sedan,Automatic,Gasoline,<1000 cc,2015,700000000
+52,Tesla,Tesla Model X,SUV,Automatic,Hybrid,>1500 - 2000 cc,2018,310000000
+53,Isuzu,Isuzu MU-X,SUV,Automatic Triptonic,Gasoline,>3000cc,2012,940000000
+54,Daihatsu,Daihatsu Terios,SUV,Automatic,Electric,<1000 cc,2006,230000000
+55,BMW,BMW 320i,Sedan,Automatic,Gasoline,>2000 - 3000 cc,2002,860000000
+56,Honda,Honda Civic,Sedan,Automatic,Gasoline,>1000 - 1500 cc,2005,140000000
+57,Nissan,Nissan March,Hatchback,Manual,Electric,<1000 cc,2013,980000000
+58,Daihatsu,Daihatsu Ayla,Hatchback,Manual,Electric,<1000 cc,2001,730000000
+59,Chevrolet,Chevrolet TraX,SUV,Automatic Triptonic,Hybrid,>1000 - 1500 cc,2015,220000000
+60,Isuzu,Isuzu MU-X,SUV,Automatic Triptonic,Gasoline,>1000 - 1500 cc,2000,650000000
+61,Wuling,Wuling Confero S,MPV,Automatic Triptonic,Hybrid,>2000 - 3000 cc,2000,580000000
+62,Honda,Honda Brio Satya,Hatchback,Manual,Electric,>3000cc,2014,440000000
+63,Daihatsu,Daihatsu Gran Max,Pickup,Manual,Hybrid,>1000 - 1500 cc,2003,910000000
+64,BMW,BMW 320i,Sedan,Automatic Triptonic,Electric,>3000cc,2000,920000000
+65,Nissan,Nissan X-Trail,SUV,Automatic,Gasoline,>1000 - 1500 cc,2024,480000000
+66,Mazda,Mazda CX-5,SUV,Automatic,Electric,>1000 - 1500 cc,2015,350000000
+67,Toyota,Toyota Avanza,MPV,Automatic,Electric,>1500 - 2000 cc,2012,730000000
+68,BMW,BMW 320i,Sedan,Automatic,Gasoline,>3000cc,2006,460000000
+69,Toyota,Toyota Avanza,MPV,Automatic Triptonic,Hybrid,>2000 - 3000 cc,2007,480000000
+70,Wuling,Wuling Cortez,MPV,Manual,Hybrid,<1000 cc,2014,600000000
+71,Mazda,Mazda CX-5,SUV,Automatic Triptonic,Gasoline,>3000cc,2017,90000000
+72,Hyundai,Hyundai Creta,SUV,Automatic Triptonic,Gasoline,>3000cc,2013,780000000
+73,Tesla,Tesla Model 3,Sedan,Automatic Triptonic,Diesel,>3000cc,2015,410000000
+74,Chevrolet,Chevrolet TraX,SUV,Automatic,Hybrid,>3000cc,2018,230000000
+75,Hyundai,Hyundai Stargazer,MPV,Automatic Triptonic,Diesel,>1500 - 2000 cc,2016,850000000
+76,Daihatsu,Daihatsu Terios,SUV,Automatic Triptonic,Diesel,>2000 - 3000 cc,2009,860000000
+77,Suzuki,Suzuki XL7,SUV,Automatic,Diesel,>1000 - 1500 cc,2001,70000000
+78,Honda,Honda Brio Satya,Hatchback,Automatic,Hybrid,<1000 cc,2005,720000000
+79,Mercedes-Benz,Mercedes-Benz E250,Sedan,Automatic,Hybrid,>2000 - 3000 cc,2020,600000000
+80,Mercedes-Benz,Mercedes-Benz GLA200,SUV,Automatic,Hybrid,>1500 - 2000 cc,2010,70000000
+81,Tesla,Tesla Model X,SUV,Automatic,Hybrid,>3000cc,2003,630000000
+82,Wuling,Wuling Almaz RS,SUV,Manual,Electric,<1000 cc,2010,280000000
+83,Mercedes-Benz,Mercedes-Benz E250,Sedan,Automatic,Diesel,>2000 - 3000 cc,2017,70000000
+84,Daihatsu,Daihatsu Ayla,Hatchback,Automatic Triptonic,Diesel,>1000 - 1500 cc,2014,380000000
+85,Mazda,Mazda CX-5,SUV,Manual,Gasoline,>2000 - 3000 cc,2016,100000000
+86,Chevrolet,Chevrolet TraX,SUV,Automatic,Hybrid,>3000cc,2004,630000000
+87,Mercedes-Benz,Mercedes-Benz GLA200,SUV,Manual,Gasoline,>1000 - 1500 cc,2022,420000000
+88,Toyota,Toyota Corolla Altis,Sedan,Manual,Diesel,>1500 - 2000 cc,2013,100000000
+89,BMW,BMW 520i,Sedan,Manual,Gasoline,>2000 - 3000 cc,2014,440000000
+90,Chevrolet,Chevrolet Spark,Hatchback,Automatic Triptonic,Diesel,>2000 - 3000 cc,2004,800000000
+91,Honda,Honda CR-V,SUV,Manual,Hybrid,>2000 - 3000 cc,2011,730000000
+92,BMW,BMW 520i,Sedan,Automatic,Electric,>2000 - 3000 cc,2014,750000000
+93,Tesla,Tesla Model 3,Sedan,Automatic,Hybrid,>1000 - 1500 cc,2000,800000000
+94,Toyota,Toyota Avanza,MPV,Automatic Triptonic,Hybrid,>2000 - 3000 cc,2020,790000000
+95,Hyundai,Hyundai Creta,SUV,Automatic,Diesel,>3000cc,2014,110000000
+96,Wuling,Wuling Cortez,MPV,Manual,Hybrid,>3000cc,2006,110000000
+97,Hyundai,Hyundai Santa Fe,SUV,Automatic,Diesel,>1000 - 1500 cc,2003,960000000
+98,Tesla,Tesla Model S,Sedan,Automatic Triptonic,Electric,<1000 cc,2000,450000000
+99,Mitsubishi,Mitsubishi Mirage,Hatchback,Manual,Hybrid,>2000 - 3000 cc,2019,720000000
+100,Mitsubishi,Mitsubishi Xpander,MPV,Manual,Hybrid,>2000 - 3000 cc,2023,340000000

@@ -1,0 +1,51 @@
+review_id,user_id,advertisement_id,rating,review_description,review_date
+1,11,170,5,"Mobilnya masih kinclong banget! Mesinnya halus, mantap!",2020-08-18
+2,47,119,3,Harganya pas di kantong. Gak mahal-mahal amat untuk mobil sebagus ini,2023-01-02
+3,46,173,5,Harganya sebanding sama kualitasnya,2024-04-21
+4,13,158,5,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2024-08-08
+5,41,108,4, ,2020-10-19
+6,47,132,1,Harganya sebanding sama kualitasnya,2024-10-12
+7,15,78,4,Harganya pas di kantong. Gak mahal-mahal amat untuk mobil sebagus ini,2024-10-23
+8,43,25,4,"Mobilnya masih kinclong banget! Mesinnya halus, mantap!",2022-09-27
+9,1,51,4,"Mobilnya oke, cocok buat harian.",2021-07-26
+10,2,191,2,Harganya sebanding sama kualitasnya,2021-01-16
+11,11,163,2,"Bensin  awet dan jarang ada masalah, cocok untuk pemakaian jangka panjang.",2021-05-07
+12,26,90,3,"Mobilnya masih kinclong banget! Mesinnya halus, mantap!",2020-03-28
+13,50,160,4, ,2023-04-12
+14,44,45,3,"Mobilnya oke, cocok buat harian.",2022-10-13
+15,24,108,3,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2023-04-29
+16,37,101,1,"Mobilnya oke, cocok buat harian.",2020-01-05
+17,44,61,2,"Mobilnya oke, cocok buat harian.",2020-12-03
+18,48,145,3,"Mobilnya oke, cocok buat harian.",2024-08-28
+19,29,66,5,Harganya sebanding sama kualitasnya,2021-09-20
+20,28,141,5, ,2024-10-30
+21,29,125,4,"Bensin  awet dan jarang ada masalah, cocok untuk pemakaian jangka panjang.",2020-03-07
+22,23,197,4,"Hemat bahan bakar, pas buat harian atau jalan jauh.",2020-04-09
+23,22,43,4,"Mobilnya masih kinclong banget! Mesinnya halus, mantap!",2021-09-16
+24,17,76,3,Harganya sebanding sama kualitasnya,2020-02-24
+25,39,39,1,"Mobilnya oke, cocok buat harian.",2024-05-15
+26,8,11,4,"Bensin  awet dan jarang ada masalah, cocok untuk pemakaian jangka panjang.",2020-07-02
+27,34,74,4,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2022-05-26
+28,11,109,5,Harganya pas di kantong. Gak mahal-mahal amat untuk mobil sebagus ini,2022-04-26
+29,5,105,5,"Bensin  awet dan jarang ada masalah, cocok untuk pemakaian jangka panjang.",2023-02-15
+30,13,62,3, ,2021-02-14
+31,21,118,5, ,2024-05-31
+32,12,39,1, ,2022-03-31
+33,20,109,4,"Bensin  awet dan jarang ada masalah, cocok untuk pemakaian jangka panjang.",2021-04-02
+34,35,141,1,"Mobilnya oke, cocok buat harian.",2022-06-30
+35,10,148,4, ,2022-04-21
+36,34,162,4,"Hemat bahan bakar, pas buat harian atau jalan jauh.",2024-05-12
+37,38,7,2,Harganya pas di kantong. Gak mahal-mahal amat untuk mobil sebagus ini,2020-09-04
+38,32,56,4, ,2023-12-11
+39,30,134,1,"Mobilnya oke, cocok buat harian.",2020-11-06
+40,30,24,4,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2024-04-02
+41,17,22,2,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2023-08-29
+42,42,102,3,"Bensin  awet dan jarang ada masalah, cocok untuk pemakaian jangka panjang.",2021-07-10
+43,35,117,5,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2024-05-07
+44,16,125,4,Harganya sebanding sama kualitasnya,2021-08-19
+45,40,183,5,"Mobilnya oke, cocok buat harian.",2022-12-25
+46,14,34,3,"Hemat bahan bakar, pas buat harian atau jalan jauh.",2023-11-01
+47,41,118,5,"Oke banget, sangat nyaman dikendarai, mesinnya responsif dan bahan bakarnya cukup efisien",2023-02-19
+48,12,79,3,"Mobilnya masih kinclong banget! Mesinnya halus, mantap!",2020-03-28
+49,12,125,4,"Mobilnya oke, cocok buat harian.",2020-12-16
+50,45,1,4, ,2022-09-24

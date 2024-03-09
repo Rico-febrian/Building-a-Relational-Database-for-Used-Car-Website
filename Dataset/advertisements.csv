@@ -1,0 +1,201 @@
+advertisement_id,product_id,user_id,title,description,created_date,advertisement_status,advertisement_view,image
+1,24,35,Toyota Corolla Altis 2020,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2020-01-10,Sold,837,https://picsum.photos/256/673
+2,60,39,Isuzu MU-X 2000,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2020-09-23,Available,611,https://dummyimage.com/500x377
+3,23,15,Mazda CX-3 2001,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2022-05-31,Sold,532,https://placekitten.com/852/18
+4,35,21,Mercedes-Benz E250 2009,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2022-05-24,Available,745,https://picsum.photos/216/430
+5,86,22,Chevrolet TraX 2004,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2024-08-15,Available,607,https://dummyimage.com/838x462
+6,43,8,Tesla Model 3 2016,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2020-05-31,Available,663,https://picsum.photos/2/560
+7,70,24,Wuling Cortez 2014,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2023-04-13,Sold,41,https://placekitten.com/1018/307
+8,91,26,Honda CR-V 2011,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2023-06-29,Available,768,https://dummyimage.com/696x178
+9,41,33,Hyundai Santa Fe 2011,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2024-04-22,Sold,533,https://picsum.photos/711/1017
+10,97,29,Hyundai Santa Fe 2003,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2021-12-18,Available,155,https://dummyimage.com/203x310
+11,95,34,Hyundai Creta 2014,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2020-07-23,Sold,433,https://placekitten.com/283/513
+12,34,38,Wuling Almaz RS 2021,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2024-06-09,Available,768,https://placekitten.com/404/874
+13,94,6,Toyota Avanza 2020,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-05-11,Sold,664,https://placekitten.com/1009/407
+14,88,31,Toyota Corolla Altis 2013,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2021-05-10,Sold,383,https://placekitten.com/688/961
+15,19,10,Nissan X-Trail 2020,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2020-07-18,Available,40,https://placekitten.com/273/3
+16,85,46,Mazda CX-5 2016,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2021-03-05,Sold,188,https://picsum.photos/581/763
+17,27,35,Ford Focus 2012,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-02-15,Sold,457,https://placekitten.com/452/758
+18,72,10,Hyundai Creta 2013,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2021-07-13,Sold,297,https://placekitten.com/482/542
+19,39,33,Mazda 2 2010,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2021-05-27,Sold,40,https://dummyimage.com/241x660
+20,12,6,Wuling Cortez 2005,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-12-14,Sold,968,https://picsum.photos/99/212
+21,68,47,BMW 320i 2006,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-07-09,Sold,500,https://picsum.photos/854/803
+22,91,28,Honda CR-V 2011,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2020-12-17,Sold,856,https://placekitten.com/685/843
+23,94,39,Toyota Avanza 2020,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2022-12-05,Available,413,https://dummyimage.com/469x799
+24,2,16,Mazda CX-5 2014,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2021-06-15,Available,890,https://picsum.photos/867/527
+25,20,14,BMW 520i 2016,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2021-08-07,Sold,864,https://dummyimage.com/169x680
+26,19,44,Nissan X-Trail 2020,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-05-01,Available,487,https://picsum.photos/461/392
+27,34,22,Wuling Almaz RS 2021,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2020-08-05,Sold,9,https://placekitten.com/111/307
+28,38,43,Honda CR-V 2023,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-08-31,Available,914,https://picsum.photos/902/146
+29,34,16,Wuling Almaz RS 2021,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2023-07-16,Available,510,https://placekitten.com/787/447
+30,31,8,Honda CR-V 2015,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2023-05-09,Available,942,https://placekitten.com/323/983
+31,99,3,Mitsubishi Mirage 2019,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2020-05-14,Sold,434,https://picsum.photos/877/394
+32,9,18,Toyota Corolla Altis 2010,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2024-01-27,Sold,406,https://picsum.photos/704/721
+33,19,40,Nissan X-Trail 2020,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2024-06-25,Sold,693,https://placekitten.com/151/1023
+34,17,16,Mitsubishi Mirage 2001,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-06-14,Available,817,https://picsum.photos/564/838
+35,79,40,Mercedes-Benz E250 2020,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-01-22,Sold,485,https://picsum.photos/844/604
+36,83,5,Mercedes-Benz E250 2017,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2022-01-16,Sold,298,https://dummyimage.com/617x487
+37,71,5,Mazda CX-5 2017,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-12-11,Sold,114,https://placekitten.com/407/443
+38,26,15,Honda Civic 2013,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2022-11-10,Available,817,https://placekitten.com/207/592
+39,86,31,Chevrolet TraX 2004,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2021-09-12,Available,618,https://picsum.photos/695/136
+40,100,20,Mitsubishi Xpander 2023,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2020-01-20,Sold,65,https://picsum.photos/487/615
+41,15,7,Ford Everest 2023,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2021-01-13,Available,680,https://placekitten.com/973/474
+42,53,19,Isuzu MU-X 2012,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2022-02-19,Available,555,https://picsum.photos/205/810
+43,47,6,Daihatsu Ayla 2002,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2021-04-22,Sold,915,https://dummyimage.com/643x135
+44,89,25,BMW 520i 2014,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-03-28,Available,487,https://dummyimage.com/571x906
+45,91,34,Honda CR-V 2011,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2021-03-27,Sold,471,https://dummyimage.com/995x98
+46,63,28,Daihatsu Gran Max 2003,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2022-05-01,Sold,172,https://placekitten.com/827/907
+47,91,38,Honda CR-V 2011,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-09-10,Available,2,https://picsum.photos/331/171
+48,35,4,Mercedes-Benz E250 2009,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2021-05-09,Available,503,https://dummyimage.com/149x810
+49,53,31,Isuzu MU-X 2012,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2022-02-25,Sold,977,https://dummyimage.com/346x590
+50,60,31,Isuzu MU-X 2000,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-12-18,Available,328,https://placekitten.com/622/782
+51,52,37,Tesla Model X 2018,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2021-02-13,Sold,227,https://picsum.photos/397/960
+52,18,29,Nissan March 2000,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2020-05-25,Available,34,https://picsum.photos/464/140
+53,90,33,Chevrolet Spark 2004,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2024-10-05,Available,48,https://placekitten.com/637/287
+54,84,27,Daihatsu Ayla 2014,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2024-01-23,Sold,25,https://picsum.photos/416/185
+55,41,6,Hyundai Santa Fe 2011,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-07-25,Available,398,https://picsum.photos/561/612
+56,98,12,Tesla Model S 2000,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2024-04-17,Sold,966,https://placekitten.com/916/505
+57,4,31,Mazda CX-3 2005,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2023-08-04,Available,253,https://placekitten.com/54/745
+58,75,3,Hyundai Stargazer 2016,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-10-31,Available,429,https://picsum.photos/509/298
+59,41,34,Hyundai Santa Fe 2011,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-01-31,Sold,265,https://picsum.photos/354/288
+60,23,24,Mazda CX-3 2001,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2022-10-11,Available,261,https://dummyimage.com/410x236
+61,85,31,Mazda CX-5 2016,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2021-11-18,Sold,780,https://picsum.photos/634/610
+62,4,8,Mazda CX-3 2005,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2023-04-04,Sold,133,https://dummyimage.com/236x611
+63,48,37,Honda CR-V 2018,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2020-10-08,Sold,854,https://picsum.photos/726/565
+64,97,21,Hyundai Santa Fe 2003,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2022-04-30,Available,350,https://placekitten.com/304/373
+65,80,46,Mercedes-Benz GLA200 2010,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-01-04,Sold,598,https://placekitten.com/702/936
+66,58,8,Daihatsu Ayla 2001,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2022-10-05,Available,455,https://dummyimage.com/52x556
+67,36,20,BMW 520i 2012,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2023-02-08,Sold,19,https://dummyimage.com/78x563
+68,40,5,Wuling Confero S 2009,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2021-09-27,Sold,16,https://dummyimage.com/908x541
+69,49,47,Ford Everest 2006,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2023-10-28,Available,247,https://dummyimage.com/476x412
+70,97,40,Hyundai Santa Fe 2003,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-02-04,Available,17,https://dummyimage.com/987x104
+71,95,2,Hyundai Creta 2014,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2022-09-11,Sold,852,https://dummyimage.com/573x747
+72,92,16,BMW 520i 2014,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2024-07-03,Available,332,https://dummyimage.com/703x763
+73,44,22,Wuling Almaz RS 2003,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2023-07-24,Available,320,https://picsum.photos/684/54
+74,28,1,Ford Everest 2008,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2022-06-06,Sold,833,https://dummyimage.com/158x272
+75,43,50,Tesla Model 3 2016,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-03-10,Available,44,https://picsum.photos/740/303
+76,51,8,Toyota Corolla Altis 2015,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2021-05-17,Available,403,https://picsum.photos/346/7
+77,71,42,Mazda CX-5 2017,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-08-30,Available,433,https://dummyimage.com/694x299
+78,74,33,Chevrolet TraX 2018,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-10-09,Available,647,https://dummyimage.com/694x632
+79,80,47,Mercedes-Benz GLA200 2010,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2024-10-01,Available,41,https://picsum.photos/312/995
+80,58,3,Daihatsu Ayla 2001,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2020-07-19,Available,250,https://dummyimage.com/530x72
+81,47,49,Daihatsu Ayla 2002,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2022-11-11,Sold,947,https://dummyimage.com/963x616
+82,61,20,Wuling Confero S 2000,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2020-02-13,Available,104,https://placekitten.com/80/982
+83,29,27,Mazda CX-5 2008,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2021-07-18,Sold,642,https://picsum.photos/590/339
+84,51,39,Toyota Corolla Altis 2015,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2024-01-30,Available,465,https://placekitten.com/6/265
+85,34,2,Wuling Almaz RS 2021,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2020-11-05,Sold,928,https://placekitten.com/352/553
+86,89,39,BMW 520i 2014,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-04-21,Available,506,https://picsum.photos/644/95
+87,89,46,BMW 520i 2014,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2022-12-05,Sold,461,https://dummyimage.com/507x654
+88,70,6,Wuling Cortez 2014,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2020-08-26,Sold,376,https://picsum.photos/950/311
+89,74,36,Chevrolet TraX 2018,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-12-03,Available,493,https://placekitten.com/326/926
+90,99,31,Mitsubishi Mirage 2019,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2021-07-08,Available,401,https://picsum.photos/189/931
+91,35,26,Mercedes-Benz E250 2009,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-05-29,Available,837,https://picsum.photos/740/400
+92,54,2,Daihatsu Terios 2006,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-08-05,Available,203,https://placekitten.com/277/100
+93,35,46,Mercedes-Benz E250 2009,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2021-02-08,Sold,727,https://placekitten.com/163/925
+94,13,27,Chevrolet Spark 2010,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2024-10-25,Available,637,https://placekitten.com/485/400
+95,56,24,Honda Civic 2005,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2024-05-19,Available,915,https://picsum.photos/102/1002
+96,43,12,Tesla Model 3 2016,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-12-11,Available,199,https://dummyimage.com/723x666
+97,36,9,BMW 520i 2012,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2022-11-12,Available,494,https://placekitten.com/733/370
+98,84,14,Daihatsu Ayla 2014,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2023-05-29,Sold,510,https://picsum.photos/853/770
+99,14,40,Mitsubishi Mirage 2008,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-08-04,Available,786,https://dummyimage.com/955x884
+100,26,19,Honda Civic 2013,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2021-04-08,Sold,849,https://dummyimage.com/516x911
+101,76,35,Daihatsu Terios 2009,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2020-01-23,Available,981,https://dummyimage.com/264x51
+102,84,25,Daihatsu Ayla 2014,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2020-09-24,Available,665,https://placekitten.com/542/148
+103,32,18,Chevrolet Spark 2016,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2024-10-10,Available,859,https://dummyimage.com/516x979
+104,90,41,Chevrolet Spark 2004,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2021-01-14,Available,205,https://picsum.photos/705/678
+105,91,46,Honda CR-V 2011,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-09-15,Sold,153,https://picsum.photos/714/208
+106,95,6,Hyundai Creta 2014,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2020-06-01,Available,564,https://picsum.photos/241/981
+107,37,18,Mazda CX-3 2006,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-04-26,Sold,309,https://dummyimage.com/812x66
+108,16,44,Hyundai Creta 2009,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2023-04-12,Available,492,https://placekitten.com/737/225
+109,97,12,Hyundai Santa Fe 2003,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2020-06-03,Sold,897,https://placekitten.com/620/384
+110,11,32,Toyota Corolla Altis 2002,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-11-17,Available,352,https://picsum.photos/84/662
+111,89,50,BMW 520i 2014,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2022-08-26,Sold,2,https://placekitten.com/621/864
+112,9,50,Toyota Corolla Altis 2010,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2020-01-07,Available,415,https://placekitten.com/816/420
+113,5,21,Tesla Model S 2020,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2021-06-18,Available,268,https://placekitten.com/295/860
+114,52,45,Tesla Model X 2018,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2024-07-07,Available,287,https://placekitten.com/76/814
+115,39,37,Mazda 2 2010,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2023-01-18,Sold,622,https://dummyimage.com/978x359
+116,38,36,Honda CR-V 2023,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2024-12-08,Sold,596,https://dummyimage.com/275x405
+117,49,12,Ford Everest 2006,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2022-02-03,Sold,135,https://placekitten.com/824/207
+118,57,33,Nissan March 2013,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2022-09-29,Available,62,https://dummyimage.com/912x510
+119,54,18,Daihatsu Terios 2006,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2020-08-22,Sold,295,https://placekitten.com/3/740
+120,42,21,Honda Brio Satya 2010,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2022-12-23,Sold,63,https://dummyimage.com/234x394
+121,29,23,Mazda CX-5 2008,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2020-11-13,Available,289,https://placekitten.com/200/86
+122,11,4,Toyota Corolla Altis 2002,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2024-05-19,Sold,115,https://placekitten.com/109/1012
+123,75,6,Hyundai Stargazer 2016,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2020-10-30,Sold,505,https://picsum.photos/936/893
+124,2,7,Mazda CX-5 2014,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2021-05-21,Sold,504,https://picsum.photos/443/286
+125,11,44,Toyota Corolla Altis 2002,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2022-04-04,Sold,54,https://picsum.photos/74/181
+126,81,44,Tesla Model X 2003,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2024-05-22,Sold,136,https://picsum.photos/863/268
+127,82,27,Wuling Almaz RS 2010,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2020-05-20,Available,842,https://dummyimage.com/851x870
+128,97,14,Hyundai Santa Fe 2003,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2020-09-08,Sold,149,https://dummyimage.com/882x593
+129,72,17,Hyundai Creta 2013,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2024-07-05,Sold,880,https://picsum.photos/91/936
+130,49,5,Ford Everest 2006,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-11-30,Available,292,https://picsum.photos/902/698
+131,17,15,Mitsubishi Mirage 2001,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2021-06-25,Available,721,https://picsum.photos/981/854
+132,36,28,BMW 520i 2012,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-03-07,Sold,173,https://picsum.photos/1019/567
+133,54,5,Daihatsu Terios 2006,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2023-06-15,Sold,812,https://placekitten.com/737/139
+134,67,39,Toyota Avanza 2012,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2024-03-12,Sold,4,https://placekitten.com/448/809
+135,81,25,Tesla Model X 2003,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2023-08-02,Sold,748,https://placekitten.com/988/758
+136,20,45,BMW 520i 2016,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2020-11-25,Available,426,https://dummyimage.com/165x798
+137,47,31,Daihatsu Ayla 2002,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2022-03-05,Available,559,https://placekitten.com/211/974
+138,43,44,Tesla Model 3 2016,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2022-04-20,Available,753,https://placekitten.com/816/501
+139,72,37,Hyundai Creta 2013,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2020-09-02,Available,284,https://dummyimage.com/19x409
+140,88,37,Toyota Corolla Altis 2013,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2020-06-16,Sold,671,https://dummyimage.com/603x622
+141,10,44,Mitsubishi Xpander 2022,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2022-05-16,Available,406,https://placekitten.com/589/108
+142,81,38,Tesla Model X 2003,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2024-05-21,Sold,903,https://dummyimage.com/745x148
+143,23,46,Mazda CX-3 2001,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2023-05-08,Sold,634,https://dummyimage.com/77x296
+144,85,2,Mazda CX-5 2016,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2020-11-28,Sold,958,https://picsum.photos/827/907
+145,67,11,Toyota Avanza 2012,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2020-10-26,Available,441,https://placekitten.com/31/481
+146,34,34,Wuling Almaz RS 2021,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2023-02-25,Sold,379,https://placekitten.com/988/582
+147,17,13,Mitsubishi Mirage 2001,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2024-05-09,Available,875,https://picsum.photos/295/344
+148,82,40,Wuling Almaz RS 2010,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2021-03-25,Sold,807,https://dummyimage.com/888x237
+149,78,2,Honda Brio Satya 2005,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2022-05-29,Available,304,https://placekitten.com/288/95
+150,48,23,Honda CR-V 2018,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2023-08-24,Sold,961,https://placekitten.com/145/317
+151,9,30,Toyota Corolla Altis 2010,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2022-12-07,Available,501,https://placekitten.com/138/182
+152,82,1,Wuling Almaz RS 2010,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2023-07-12,Sold,375,https://placekitten.com/890/570
+153,75,2,Hyundai Stargazer 2016,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2022-12-30,Sold,681,https://dummyimage.com/383x960
+154,49,37,Ford Everest 2006,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2020-07-05,Available,297,https://picsum.photos/733/137
+155,51,16,Toyota Corolla Altis 2015,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2021-04-08,Available,865,https://dummyimage.com/765x79
+156,62,31,Honda Brio Satya 2014,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2023-07-15,Available,581,https://picsum.photos/928/618
+157,2,37,Mazda CX-5 2014,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2024-03-02,Sold,965,https://picsum.photos/421/76
+158,18,49,Nissan March 2000,"Kondisi prima, siap luar kota, pajak masih panjang. Info Detail Hub Tlp/Wa",2023-02-15,Available,58,https://placekitten.com/80/383
+159,85,40,Mazda CX-5 2016,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2022-09-14,Available,549,https://dummyimage.com/791x394
+160,36,32,BMW 520i 2012,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2023-08-25,Sold,648,https://placekitten.com/67/418
+161,98,38,Tesla Model S 2000,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2024-05-26,Sold,317,https://picsum.photos/57/359
+162,8,1,Hyundai Stargazer 2011,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2023-01-26,Available,364,https://dummyimage.com/484x793
+163,47,9,Daihatsu Ayla 2002,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-03-23,Sold,520,https://picsum.photos/449/959
+164,98,17,Tesla Model S 2000,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2022-08-18,Available,46,https://placekitten.com/854/829
+165,70,41,Wuling Cortez 2014,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2024-11-12,Available,204,https://picsum.photos/933/770
+166,69,35,Toyota Avanza 2007,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-01-01,Sold,579,https://dummyimage.com/319x543
+167,78,30,Honda Brio Satya 2005,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2021-01-26,Sold,931,https://placekitten.com/368/1000
+168,28,39,Ford Everest 2008,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2022-05-19,Available,156,https://dummyimage.com/218x666
+169,8,27,Hyundai Stargazer 2011,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-11-13,Available,396,https://dummyimage.com/910x855
+170,47,18,Daihatsu Ayla 2002,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-06-21,Available,864,https://picsum.photos/82/588
+171,88,21,Toyota Corolla Altis 2013,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2024-05-05,Sold,784,https://dummyimage.com/1020x247
+172,27,14,Ford Focus 2012,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2022-12-30,Sold,798,https://placekitten.com/592/769
+173,1,37,Isuzu MU-X 2021,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2022-11-20,Available,725,https://dummyimage.com/730x419
+174,6,42,Ford Focus 2012,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2022-03-29,Sold,980,https://dummyimage.com/227x821
+175,69,29,Toyota Avanza 2007,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2021-07-25,Available,126,https://picsum.photos/45/740
+176,90,1,Chevrolet Spark 2004,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2023-01-23,Available,445,https://placekitten.com/327/243
+177,37,31,Mazda CX-3 2006,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2022-12-16,Available,154,https://dummyimage.com/294x810
+178,97,44,Hyundai Santa Fe 2003,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2023-05-21,Available,357,https://dummyimage.com/568x1017
+179,98,29,Tesla Model S 2000,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2020-07-01,Sold,30,https://picsum.photos/721/803
+180,61,4,Wuling Confero S 2000,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2020-08-30,Sold,701,https://placekitten.com/460/543
+181,100,29,Mitsubishi Xpander 2023,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2020-07-09,Sold,795,https://dummyimage.com/342x727
+182,33,24,Suzuki Ertiga 2023,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2023-08-03,Sold,771,https://dummyimage.com/461x700
+183,60,26,Isuzu MU-X 2000,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2024-12-17,Available,711,https://picsum.photos/762/934
+184,76,23,Daihatsu Terios 2009,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2020-02-08,Sold,631,https://dummyimage.com/686x599
+185,17,4,Mitsubishi Mirage 2001,"Mobil irit, cocok untuk perjalanan harian. Info Detail Hub Tlp/Wa",2023-09-25,Available,221,https://picsum.photos/612/546
+186,20,19,BMW 520i 2016,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2022-01-30,Sold,928,https://placekitten.com/550/696
+187,21,15,Hyundai Stargazer 2016,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-06-08,Available,800,https://placekitten.com/163/875
+188,35,4,Mercedes-Benz E250 2009,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2023-07-18,Available,86,https://dummyimage.com/470x467
+189,35,9,Mercedes-Benz E250 2009,"Tidak pernah kecelakaan, dokumen lengkap, siap pakai. Info Detail Hub Tlp/Wa",2022-03-23,Available,929,https://picsum.photos/532/743
+190,39,20,Mazda 2 2010,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2024-03-18,Sold,119,https://picsum.photos/56/280
+191,18,20,Nissan March 2000,"Mobil bekas, kondisi bagus, siap pakai. Info Detail Hub Tlp/Wa",2022-07-09,Available,24,https://picsum.photos/50/246
+192,40,47,Wuling Confero S 2009,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2024-10-31,Sold,25,https://placekitten.com/74/115
+193,8,17,Hyundai Stargazer 2011,"Banyak fitur, cocok untuk keluarga, nyaman dikendarai. Info Detail Hub Tlp/Wa",2022-07-22,Sold,454,https://picsum.photos/589/840
+194,78,29,Honda Brio Satya 2005,"Tidak pernah mogok, perawatan rutin, siap pakai. Info Detail Hub Tlp/Wa",2020-05-15,Sold,215,https://placekitten.com/641/628
+195,72,19,Hyundai Creta 2013,"Pajak panjang, kaki-kaki nyaman, siap pakai. Info Detail Hub Tlp/Wa",2021-03-01,Available,310,https://picsum.photos/485/948
+196,42,24,Honda Brio Satya 2010,"Dijual mobil bekas, harga nego, kondisi terawat. Info Detail Hub Tlp/Wa",2020-12-08,Sold,307,https://picsum.photos/164/636
+197,6,18,Ford Focus 2012,"Sudah dipakai, kondisi terawat, tidak ada masalah mesin. Info Detail Hub Tlp/Wa",2022-12-06,Sold,768,https://picsum.photos/211/413
+198,66,35,Mazda CX-5 2015,"AC dingin, audio mantap, siap jalan jauh. Info Detail Hub Tlp/Wa",2021-09-23,Available,401,https://picsum.photos/217/351
+199,5,38,Tesla Model S 2020,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2022-02-19,Sold,760,https://dummyimage.com/771x16
+200,43,10,Tesla Model 3 2016,"Harga nego, kondisi bagus, mesin sehat. Info Detail Hub Tlp/Wa",2020-07-13,Sold,462,https://dummyimage.com/426x551
