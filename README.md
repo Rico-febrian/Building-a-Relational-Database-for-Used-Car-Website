@@ -27,6 +27,7 @@ The project includes several files categorized for different functionalities:
    - Analytical:
      Queries for data analysis, such as sales trends and user preferences.
 
+
 Thank you so much for taking the time to read this piece of mine. For further information and to explore the project in more detail, you can access the following resources:
 
-Medium: https://medium.com/@ricofebrian731/building-a-relational-database-for-a-used-car-website-3a32552bd328?source=user_profile---------0----------------------------
+Medium: https://medium.com/@ricofebrian731
